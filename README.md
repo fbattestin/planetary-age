@@ -4,6 +4,6 @@ The story of planetary science can be divided into three fairly well-defined per
 *History of planetary science I: Pre-space age*
 
 ## damn you pluto!
-![image](https://user-images.githubusercontent.com/18652022/102267824-36acb880-3ef9-11eb-89aa-7949c41129c1.png)
+![image](https://user-images.githubusercontent.com/18652022/102267991-707dbf00-3ef9-11eb-8308-e96e3b318307.png)
 
 
