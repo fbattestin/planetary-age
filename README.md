@@ -5,5 +5,3 @@ The story of planetary science can be divided into three fairly well-defined per
 
 ## damn you pluto!
 ![image](https://user-images.githubusercontent.com/18652022/102267991-707dbf00-3ef9-11eb-8308-e96e3b318307.png)
-
-

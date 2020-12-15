@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Build"
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'ctm'
