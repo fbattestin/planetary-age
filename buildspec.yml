@@ -7,4 +7,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: 'ctm'
+  base-directory: 'ctm-prd'
